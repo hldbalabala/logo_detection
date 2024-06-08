@@ -88,7 +88,7 @@ Check your GPU ID (only if you're using a GPU)
 ```bash
 nvidia-smi
 ```
-Change CLIP_PTH and CLASS_JSON_PTH to the file best_model_vitb16.pt and class_indices.json in demo/inference_on_a_image.py.
+Change CLIP_PTH and CLASS_JSON_PTH to the paths of files 'best_model_vitb16.pt' and 'class_indices.json' in demo/inference_on_a_image.py.
 
 Replace `{GPU ID}`, `image_you_want_to_detect.jpg` with appropriate values in the following command
 
