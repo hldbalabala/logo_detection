@@ -54,7 +54,7 @@ export CUDA_HOME=/usr/local/cuda
 git clone https://github.com/hldbalabala/logo_detection.git
 ```
 
-2. Change the current directory to the GroundingDINO folder.
+2. Change the current directory to the logo_detection folder.
 
 ```bash
 cd logo_detection/
