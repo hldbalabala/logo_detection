@@ -73,6 +73,7 @@ pip install git+https://github.com/openai/CLIP.git
 ```
 
 5. Download pre-trained model weights.
+   https://pan.baidu.com/s/1b5LjXebpFQEfTqCa-SdaFA?pwd=abcd 
 
 ```bash
 mkdir weights
